@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/main.b961587b.chunk.js",
-    "main.js.map": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/main.b961587b.chunk.js.map",
-    "runtime-main.js": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/runtime-main.0c6590f8.js",
-    "runtime-main.js.map": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/runtime-main.0c6590f8.js.map",
-    "static/js/2.be90333f.chunk.js": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/2.be90333f.chunk.js",
-    "static/js/2.be90333f.chunk.js.map": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/2.be90333f.chunk.js.map",
-    "static/js/3.e9227e60.chunk.js": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/3.e9227e60.chunk.js",
-    "static/js/3.e9227e60.chunk.js.map": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/3.e9227e60.chunk.js.map",
-    "index.html": "/%E2%80%8F%E2%80%8Fmylocations-welldone/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.be90333f.chunk.js.LICENSE.txt": "/%E2%80%8F%E2%80%8Fmylocations-welldone/static/js/2.be90333f.chunk.js.LICENSE.txt"
+    "main.css": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/main.b961587b.chunk.js",
+    "main.js.map": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/main.b961587b.chunk.js.map",
+    "runtime-main.js": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/runtime-main.b6e6038c.js",
+    "runtime-main.js.map": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/runtime-main.b6e6038c.js.map",
+    "static/js/2.be90333f.chunk.js": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/2.be90333f.chunk.js",
+    "static/js/2.be90333f.chunk.js.map": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/2.be90333f.chunk.js.map",
+    "static/js/3.e9227e60.chunk.js": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/3.e9227e60.chunk.js",
+    "static/js/3.e9227e60.chunk.js.map": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/3.e9227e60.chunk.js.map",
+    "index.html": "/%E2%80%8F%E2%80%8F-mylocations-welldone/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.be90333f.chunk.js.LICENSE.txt": "/%E2%80%8F%E2%80%8F-mylocations-welldone/static/js/2.be90333f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c6590f8.js",
+    "static/js/runtime-main.b6e6038c.js",
     "static/js/2.be90333f.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.b961587b.chunk.js"
